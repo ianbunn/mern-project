@@ -10,6 +10,7 @@ import Dashboard from './views/pages/Dashboard.js';
 import Repair from './views/pages/Repair.js';
 // import Team from './views/pages/Team.js';
 
+// App
 export default function App() {
   return (
     <BrowserRouter>
