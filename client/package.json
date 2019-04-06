@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "CarMate App - about vehicle information",
   "author": "Nic May, Ian Bunn, Rebeca Dodero, Harpal Assi",
-  "homepage": "http://carmate.info",
+  "homepage": "https://carmateinfo.herokuapp.com/",
   "copyright": "Copyright 2019 CARMATE",
   "private": true,
   "proxy": "http://localhost:3001/",
